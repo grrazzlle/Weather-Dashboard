@@ -4,4 +4,4 @@ This application allows you to check the weather in any city and see the current
 
 Here is a link to the webpage https://grrazzlle.github.io/Weather-Dashboard/.
 
-![Example image](/Assets/Weather_Dashboard.PNG)
+![Example image](/Weather_Dashboard.PNG)
