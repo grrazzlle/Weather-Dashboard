@@ -5,9 +5,11 @@
 
   ## Description
 
-  This application allows you to check the weather in any city and see the current weather and 5 days forcast
+  A weather dashboard that features dynamically updated HTML and CSS, and uses the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities, and uses `localStorage` to store any persistent data. This application allows users to check the weather in any city and see the current weather and 5 days forcast
 
-  ![Example image](/Weather_Dashboard.PNG)
+  ## Demo
+
+  ![Example image](Weather_Dashboard.PNG)
 
   ## Table of contents
 
@@ -32,7 +34,7 @@
   None 
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   Self
 
